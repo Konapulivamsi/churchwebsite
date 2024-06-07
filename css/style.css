@@ -99,6 +99,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-nav {
   margin: 0;
+  background: linear-gradient(to right,purple,#f291b3, pink ,skyblue, #5eb1ff,blue);
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav {
